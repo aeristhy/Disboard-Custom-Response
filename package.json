@@ -1,0 +1,26 @@
+{
+  "name": "disboard-custom-response",
+  "version": "1.0.0",
+  "description": "Disboard Custom Bump Response",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeristhy/Disboard-Custom-Response.git"
+  },
+  "keywords": [
+    "Disboard",
+    "Custom-Response"
+  ],
+  "author": "aeristhy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aeristhy/Disboard-Custom-Response/issues"
+  },
+  "homepage": "https://github.com/aeristhy/Disboard-Custom-Response#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
